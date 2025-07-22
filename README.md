@@ -80,9 +80,6 @@ Frontend runs on http://localhost:5173
 🙋‍♂ Author
   Ansul Jain
 
-🤝 Contributing
-Pull requests are welcome. For any major change, open an issue to discuss the idea first.
-
 🚀 Upcoming Features
 
    ✅ Add a waiting screen before the second user joins.
@@ -103,3 +100,6 @@ Pull requests are welcome. For any major change, open an issue to discuss the id
  ❗ Room cleanup is not handled when both users leave.
 
  Optimised handling will be updated soon
+
+ 🤝 Contributing
+Pull requests are welcome. For any major change, open an issue to discuss the idea first.
