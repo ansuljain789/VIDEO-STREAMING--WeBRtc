@@ -15,6 +15,7 @@ This app allows users to create or join rooms and communicate with live video di
 
 ## 📁 Project Structure
 
+```txt
 1. Video-Streaming-WebRtc/
 ├── backend/
 │ ├── server.js
@@ -82,12 +83,21 @@ Pull requests are welcome. For any major change, open an issue to discuss the id
 
 🚀 Upcoming Features
 
-✅ Add a waiting screen before the second user joins.
+   ✅ Add a waiting screen before the second user joins.
 
-✅ Add user names or IDs for personalized calls.
+   ✅ Add user names or IDs for personalized calls.
 
-✅ Add recording functionality (using MediaRecorder API).
+   ✅ Add recording functionality (using MediaRecorder API).
+ 
+   ✅ Add mute/unmute and video on/off toggle.
 
-✅ Add mute/unmute and video on/off toggle.
+   ✅ Mobile responsiveness and layout improvements.
 
-✅ Mobile responsiveness and layout improvements.
+🐞 Known Issues
+ ❗ Sometimes video doesn’t connect on first attempt — refreshing helps.
+
+ ❗ No error handling for invalid room IDs yet.
+
+ ❗ Room cleanup is not handled when both users leave.
+
+ Optimised handling will be updated soon
